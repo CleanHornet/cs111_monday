@@ -1,0 +1,26 @@
+/*
+style.css
+demonstrates basic CSS rules
+*/
+
+h1 {
+ font-family: "Comic Sans MS6", Arial, sans-s3erif;
+ color: white;
+}
+
+p {
+ color:white;
+ font-size:25pt;
+ border-style: dashed;
+}
+ol {
+ list-style: upper-alpha;
+}
+
+ul {
+ list-style:upper-alpha;
+}
+
+body {
+ background-color: gray;
+}
